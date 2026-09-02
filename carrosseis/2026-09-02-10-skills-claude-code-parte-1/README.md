@@ -5,7 +5,7 @@ Carrossel de 9 slides. Template `carrossel-imagens-editorial-rodbyte`. Primeira 
 ## Base URL para o publicador
 
 ```
-https://raw.githubusercontent.com/barbabittencourt-dot/RodBytePublicador/main/carrosseis/2026-08-31-10-skills-claude-code-parte-1
+https://raw.githubusercontent.com/barbabittencourt-dot/RodBytePublicador/main/carrosseis/2026-09-02-10-skills-claude-code-parte-1
 ```
 
 ## Slides
@@ -26,7 +26,7 @@ Conteúdo: gancho, o que é uma skill, as skills 1 a 4 (brainstorming, writing-p
 
 ## Série
 
-Continua em [2026-08-31-10-skills-claude-code-parte-2](../2026-08-31-10-skills-claude-code-parte-2), com as skills 5 a 10, o encadeamento entre elas e o CTA de comentar SKILL.
+Continua em [2026-09-04-10-skills-claude-code-parte-2](../2026-09-04-10-skills-claude-code-parte-2), com as skills 5 a 10, o encadeamento entre elas e o CTA de comentar SKILL.
 
 ## Legenda
 

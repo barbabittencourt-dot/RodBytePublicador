@@ -1,6 +1,6 @@
 ---
 carrossel: 10-skills-claude-code-parte-1
-data: 2026-08-31
+data: 2026-09-02
 handle: "@rodbyte"
 parte: 1 de 2
 ---

@@ -44,3 +44,4 @@ Use sempre `raw.githubusercontent.com`. O endereço de `github.com/.../blob/...`
 | Data | Publicação | Slides |
 |---|---|---|
 | 2026-08-30 | [Auditoria de skills no Claude Code](carrosseis/2026-08-30-auditoria-skills-claude-code) | 9 |
+| 2026-08-31 | [10 skills de Claude Code pra SaaS vendável, parte 1](carrosseis/2026-08-31-10-skills-claude-code-parte-1) | 9 |
